@@ -32,3 +32,12 @@ Below details are shown in the application:
 
 You can download the application from this [Build APK File](https://github.com/arnoldvaz27/CountriesDetails/releases/tag/1.0).
   Click on the CountriesDetails.apk file to download the file.
+
+
+## Screenshots
+
+![Screenshot_2021-09-08-18-20-34-48_44bfc1a57a3dd454b3891ca26bd0072c](https://user-images.githubusercontent.com/70201026/132512545-5604cd68-1456-4fe0-8416-1c5d3886a4b4.png)
+![Screenshot_2021-09-08-18-20-16-48_44bfc1a57a3dd454b3891ca26bd0072c](https://user-images.githubusercontent.com/70201026/132512549-b9ec8c80-b9f0-4661-9173-7276604a3369.png)
+![Screenshot_2021-09-08-18-20-19-91_44bfc1a57a3dd454b3891ca26bd0072c](https://user-images.githubusercontent.com/70201026/132512553-63fd514f-24ac-487d-944e-d451b588d83a.png)
+![Screenshot_2021-09-08-18-20-24-25_44bfc1a57a3dd454b3891ca26bd0072c](https://user-images.githubusercontent.com/70201026/132512554-19eb0415-70cf-44d6-a470-7122c8a9d4a1.png)
+![Screenshot_2021-09-08-18-20-27-59_44bfc1a57a3dd454b3891ca26bd0072c](https://user-images.githubusercontent.com/70201026/132512557-eb372101-1919-4abf-8014-9e5d717dcd0c.png)
